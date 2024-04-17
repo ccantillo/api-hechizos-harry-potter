@@ -8,11 +8,15 @@ Instala las dependencias:
 accede a la carpeta /src
 npm install
 
-Uso
-Para iniciar el servidor, ejecuta:
 
+Uso
+
+Para iniciar el servidor, ejecuta:
 npm start
 El servidor se ejecutará en http://localhost:3000.
+
+Para ejecutar los test unitarios, ejecuta:
+npm run test
 
 Para probar la API, puedes utilizar herramientas como Postman o cURL. Aquí tienes algunos ejemplos de solicitudes:
 

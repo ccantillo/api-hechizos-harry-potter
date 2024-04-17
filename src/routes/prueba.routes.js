@@ -4,7 +4,7 @@ const { validateSpellFields, validateUniqueSpellNameAndId } = require('../middle
 
 const router = express.Router()
 
-router.get("/spells", returnCharacters)
-router.post('/spells', validateSpellFields, validateUniqueSpellNameAndId, addSpell);
+router.get("/Spells", returnCharacters)
+router.post('/Spells', validateSpellFields, validateUniqueSpellNameAndId, addSpell);
 
 module.exports = router
