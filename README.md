@@ -37,3 +37,7 @@ Ejemplo Body:
     "light": "Blue",
     "creator": null
 }
+
+
+
+la version de Node utilizada fue la v20.12.2
